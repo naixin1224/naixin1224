@@ -22,6 +22,8 @@
 
 
 # Tech Stack
+<div align="center" >
+
 <img height="100" width="100" src="./assets/images/html.webp">
 <img height="100" width="100" src="./assets/images/cssgif.webp">
 <img height="100" width="100" src="./assets/images/vscode.webp">
@@ -43,3 +45,5 @@
 </picture>
 
 <img width="200%" src="./assets/images/hr.gif" />
+
+</div>
